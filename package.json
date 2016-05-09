@@ -1,8 +1,8 @@
 {
   "name": "react-native-calendar-picker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Calendar Picker Component for React Native",
-  "main": "CalendarPicker.js",
+  "main": "CalendarPicker/CalendarPicker.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
